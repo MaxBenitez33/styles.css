@@ -1,0 +1,89 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body { 
+	
+	text-align: center;
+	color:#fff;
+}
+
+.cinepoli {
+	background-color: #0d2973; 
+	padding-bottom: 50px;
+	padding-top: 30px;
+}
+
+h1 {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+		
+
+	
+}
+
+h2 {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+		
+
+	
+}
+
+h3 {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";		
+	
+}
+
+p {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";	
+	line-height: 1.6;
+}
+
+.button {
+  background-color: #5ef5e6;
+  border-radius: 20px;
+  color: #0d2973;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: default;
+  font-weight: bold;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+footer {
+	background-color: #fff; 
+	background-size: cover;
+	text-align: center;
+	margin-top: 30px;
+}
+
+
+.parallax {
+  /* The image used */
+  background-image: url("image/parallax.jpg");
+
+  /* Set a specific height */
+  min-height: 700px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.rounded-corners {
+  text-align: center;	
+  border-radius: 46px;
+  border: 4px solid #5ef5e6;
+  padding: 20px;
+  max-width: 50%;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
